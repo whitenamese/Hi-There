@@ -1,5 +1,6 @@
 # Hi-There
 <<<<<<< HEAD
+Partner: Michael Ren
 Michael Doan/Michael Ren Lab 5 public repo
 =======
 Michael Doan/Michael Ren public repo
